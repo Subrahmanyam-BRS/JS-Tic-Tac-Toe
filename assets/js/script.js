@@ -1,11 +1,3 @@
-/** 
-Author:    Build Rise Shine with Nyros (BRS) 
-Created:   2023
-Library / Component: Script file
-Description: Tic Tac Toe game logic
-(c) Copyright by BRS with Nyros. 
-**/
-
 // Init player names and Elements
 let playerOneName;
 let playerTwoName;
